@@ -3,7 +3,7 @@ GMM Estimation of Panel VAR Models Use pvargmm (panelvar) With (In) R Software
 
 Dynamic Panel VAR estimation, two-step GMM Use pvargmm (panelvar) With (In) R Software
 
-Inequality summary effects of nominal and ordinal independent variables Use meinequality With STATA 18
+https://www.youtube.com/watch?v=0MXfnccX7sM
 
 Olah Data Semarang
 
